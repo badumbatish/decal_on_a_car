@@ -7,3 +7,4 @@
 
 * [Chapter 0: Basics](c++/chapter-0-basics.md)
 * [HW0](c++/hw0.md)
+* [Chapter X: Threadings](c++/chapter-x-threadings.md)

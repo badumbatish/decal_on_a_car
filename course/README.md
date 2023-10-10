@@ -83,6 +83,9 @@ You will need
 * A C++ compiler: gcc | clang | cl
 * A Meta build-system: CMake
 * A build system: make | ninja...
+* A debugger : (c)gdb, or a debugger built into your IDE (i.e Clion, Visual Studio)
+
+Clion is free for Berkeley students from&#x20;
 
 ## Grading
 
