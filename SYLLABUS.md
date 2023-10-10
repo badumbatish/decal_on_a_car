@@ -64,9 +64,13 @@ Each week has a set of homework A and B, respective of the first lecture and the
 
 This is a fast-moving class. We require at least CS61A and CS61B as a pre-requisite.
 
-### Textbooks and other required materials
-We will provide readings and recommended textbooks for you to explore out of your own time.
+### Tooling
+The course requires a laptop to code on.
 
+You will need
+- A C++ compiler: gcc | clang | cl
+- A Meta build-system: CMake
+- A build system: make | ninja...
 ## Grading
 All DeCal is P/NP based. But we hope that this doesn't demotivate you from getting the most out of the class.
 
@@ -119,7 +123,10 @@ understanding how to do things in C++ by communicating with your friends.
     e.g., exam dates, due dates for major projects, other special dates (guest speaker, field trip), required readings, service-learning component, internships
 
 ## Other information:
-### Recommended readings
+### Recommended readings/videos
+
+https://www.youtube.com/watch?v=Bt3zcJZIalk : On move
+
 ### How will students receive timely feedback on their performance?
     (Instructor/TA? Self assessment? Peer review? Online-Sakai? In-class?)
 ### Related, how will students be informed about their progress and grades?
