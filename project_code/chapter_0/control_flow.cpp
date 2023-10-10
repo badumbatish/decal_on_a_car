@@ -20,12 +20,15 @@ int main() {
 
     std::cout << std::endl;
 
-    int x = 10;
+    int x = 11;
 
-    if (x > 5) {
-        std::cout << "x is greater than 5" << std::endl;
-    } else {
-        std::cout << "x is not greater than 5" << std::endl;
+    if (x > 20) {
+        std::cout << "x is greater than 20" << std::endl;
+    } else if (x > 10) {
+        std::cout << "x is greater than 10" << std::endl;
+    }
+    else {
+        std::cout << "x is not greater than 10" << std::endl;
     }
 
     return 0;
