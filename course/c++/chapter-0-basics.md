@@ -36,10 +36,24 @@ How to compile this piece of code and get an output
 
 ### Comments
 
+```cpp
+// This is a single-line comment
 
+/*
+This is a
+multi-line comment
+*/
+
+```
 
 ### Variables / Types
 
 {% @github-files/github-code-block url="https://github.com/badumbatish/decal_on_a_car/blob/main/project_code/chapter_0/variables_and_types.cpp" %}
 
 * [ ] Pattern-match the commands in the **Hello World** lesson to compile the file in section **Variables and Types** to make an executable called _kittle\_cat_
+
+## Control Flows
+
+{% @github-files/github-code-block url="https://github.com/badumbatish/decal_on_a_car/blob/main/project_code/chapter_0/control_flow.cpp" %}
+
+* [ ] Compile control\_flow.cpp and see check if you can correctly predict its output.
