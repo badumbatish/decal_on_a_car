@@ -1,3 +1,5 @@
 add_executable(main "${CMAKE_CURRENT_LIST_DIR}/main.cpp")
 add_executable(main_2 "${CMAKE_CURRENT_LIST_DIR}/main_2.cpp")
 add_executable(hello_world "${CMAKE_CURRENT_LIST_DIR}/hello_world.cpp")
+add_executable(variables_and_types "${CMAKE_CURRENT_LIST_DIR}/variables_and_types.cpp")
+add_executable(control_flow "${CMAKE_CURRENT_LIST_DIR}/control_flow.cpp")
