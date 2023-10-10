@@ -24,5 +24,22 @@ Another way to write main.cpp is with the parameter _argc_ and _argv,_ respectiv
 
 {% @github-files/github-code-block url="https://github.com/badumbatish/decal_on_a_car/blob/main/project_code/chapter_0/main_2.cpp" %}
 
-## Variables / Variables Declaration
+## Basic Syntax
 
+### Hello world
+
+{% @github-files/github-code-block url="https://github.com/badumbatish/decal_on_a_car/blob/main/project_code/chapter_0/hello_world.cpp" %}
+
+How to compile this piece of code and get an output
+
+{% @github-files/github-code-block url="https://github.com/badumbatish/decal_on_a_car/blob/main/project_code/chapter_0/hello_world_output.txt" %}
+
+### Comments
+
+
+
+### Variables / Types
+
+{% @github-files/github-code-block url="https://github.com/badumbatish/decal_on_a_car/blob/main/project_code/chapter_0/variables_and_types.cpp" %}
+
+* [ ] Pattern-match the commands in the **Hello World** lesson to compile the file in section **Variables and Types** to make an executable called _kittle\_cat_
