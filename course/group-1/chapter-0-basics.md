@@ -20,3 +20,6 @@ Below is a basic main.cpp file, with the function main, of type integer, returni
 
 {% @github-files/github-code-block url="https://github.com/badumbatish/decal_on_a_car/blob/main/project_code/main.cpp" fullWidth="false" %}
 
+Another way to write main.cpp is with the parameter _argc_ and _argv,_ respectively representing the number of arguments passed to the executable and the arguments passed to the programs:&#x20;
+
+{% @github-files/github-code-block url="https://github.com/badumbatish/decal_on_a_car/blob/main/project_code/chapter_0/main_2.cpp" %}
