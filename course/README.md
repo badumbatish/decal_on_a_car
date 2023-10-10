@@ -72,7 +72,7 @@ Each week has a set of homework A and B, respective of the first lecture and the
 
 ### Course prerequisites (what prior knowledge, skills do students need for success?)
 
-This is a fast-moving class. We require at least CS61A and CS61B as a pre-requisite.
+This is a fast-moving class. We require at least CS61A-B-C and CS162 as a pre-requisite.
 
 ### Tooling
 
