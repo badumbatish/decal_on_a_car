@@ -57,3 +57,10 @@ multi-line comment
 {% @github-files/github-code-block url="https://github.com/badumbatish/decal_on_a_car/blob/main/project_code/chapter_0/control_flow.cpp" %}
 
 * [ ] Compile control\_flow.cpp and see check if you can correctly predict its output.
+
+## Resources
+
+* For basic problems,  , you can consult Chat-gippity : [https://chat.openai.com](https://chat.openai.com)
+* main.cpp : [https://en.cppreference.com/w/cpp/language/main\_function](https://en.cppreference.com/w/cpp/language/main\_function)
+* variables and types : [https://cplusplus.com/doc/tutorial/variables/](https://cplusplus.com/doc/tutorial/variables/)
+
